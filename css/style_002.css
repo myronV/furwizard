@@ -1,0 +1,2583 @@
+body {
+	overflow-x: hidden !important;
+    background-color: #1A84B1;
+}
+
+#u347 {
+	display: none;
+}
+
+#u394 {
+    margin-top: 0;
+    width: 100%;
+    left: 20%;
+}
+
+#ppu437 {
+	position: relative;
+	left: 5%;
+}
+
+#menuu398 {
+    left: 30%;
+}
+
+#menuu398 div {
+	font-family: Verdana;
+}
+
+#u119,
+#u140,
+#pu127-4,
+#pu141-4,
+#u126-6 {
+	display: none;
+}
+
+#u1472-4 {
+	font-size: 26px;
+}
+
+#u434-8 {
+    display: none;
+}
+
+#u116-9 {
+	z-index: 42;
+	min-height: 30px;
+	background-color: transparent;
+	color: #000;
+	text-align: center;
+	font-size: 18px;
+	line-height: 22px;
+	font-family: open-sans, sans-serif;
+	font-weight: 600;
+	position: relative;
+	width: 96.14%;
+	margin-left: 2.32%;
+}
+
+#u116-9 #u116 {
+	color: #000;
+}
+
+#u116-3 #u116,
+#u116-3 #u116-2 {
+	font-size: 22px;
+}
+
+#u116-4,
+#u116-5 {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+#u116-4 {
+	font-size: 26px;
+}
+
+#u116-5 {
+	font-size: 42px;
+	color: #FCBD39;
+}
+
+#u116-6 {
+	padding: 20px 0;
+}
+
+.timer-line {
+	margin: 0 auto 10px;
+}
+
+.timer-line > div {
+	height: auto !important;
+	font-weight: normal;
+}
+
+#pu116-8 #timer-text-572b398854165f2fe88ea60a89ef76b9-hours,
+#pu116-8 #timer-text-572b398854165f2fe88ea60a89ef76b9-minutes,
+#pu116-8 #timer-text-572b398854165f2fe88ea60a89ef76b9-secundes,
+#u268 #u112 #timer-text-572b398854165f2fe88ea60a89ef76b90-hours,
+#u268 #u112 #timer-text-572b398854165f2fe88ea60a89ef76b90-minutes,
+#u268 #u112 #timer-text-572b398854165f2fe88ea60a89ef76b90-secundes,
+#u288 #u112 #timer-text-572b398854165f2fe88ea60a89ef76b9000-hours,
+#u288 #u112 #timer-text-572b398854165f2fe88ea60a89ef76b9000-minutes,
+#u288 #u112 #timer-text-572b398854165f2fe88ea60a89ef76b9000-secundes,
+#u336-8 #timer-text-572b398854165f2fe88ea60a89ef76b90-hours,
+#u336-8 #timer-text-572b398854165f2fe88ea60a89ef76b90-minutes,
+#u336-8 #timer-text-572b398854165f2fe88ea60a89ef76b90-secundes {
+	color: #000 !important;
+}
+
+#u112 {
+	margin: 0 2% 10px;
+	width: 96%;
+}
+
+#u112 {
+	height: 50px;
+	min-height: 50px;
+	display: block;
+}
+
+#u114-4 {
+	padding: 8px 0;
+	font-size: 21px;
+}
+
+#u115-4 {
+	font-size: 18px;
+	line-height: 24px;
+}
+
+#u117 {
+	width: 500px;
+	left: 740px;
+	top: 140px;
+}
+
+#u117 img {
+	width: 500px;
+	height: 500px;
+}
+
+#u95,
+#u101,
+#u106 {
+	margin-top: 45px;
+}
+
+#u100-4,
+#u102-4,
+#u110-4 {
+	font-size: 17.5px;
+	line-height: 24px;
+	font-family: Verdana;
+}
+
+#u369 {
+	margin: 20px auto;
+}
+
+#u94_align_to_page {
+    padding-bottom: 30px;
+}
+
+/*Видео*/
+#u344-bw {
+    margin-top: 1100px;
+}
+
+#u344 {
+	background-color: #313131;
+}
+
+#u345-4 {
+    color: #fff;
+}
+
+#u369 {
+	width: 840px;
+	left: 200px;
+	border: 0;
+}
+
+iframe .player .controls-wrapper .title,
+iframe .player .controls-wrapper .sidedock,
+iframe .player .outro-videosSection {
+	display: none;
+}
+
+/*Новий блок з акцією*/
+#u370-bw {
+	margin-top: 1850px;
+	min-height: 1100px;
+}
+
+#u286-bw {
+	min-height: 600px;
+}
+
+#u370-bw,
+#u286-bw {
+	min-width: 100%;
+	padding: 40px 0;
+	position: relative;
+	text-align: center;
+	background-color: #1A84B1;
+}
+
+#u370-bw .title,
+#u286-bw .title {
+	text-align: center;
+	font-size: 26px;
+	line-height: 33px;
+	text-transform: uppercase;
+	font-weight: bold;
+	background: #FCBD39;
+	max-width: 950px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+#u370-bw .title h2,
+#u286-bw .title h2 {
+	color: #000;
+}
+
+#u370-bw .title p,
+#u286-bw .title p  {
+	color: #fff;
+}
+
+#u370-bw .main,
+#u286-bw .main {
+	max-width: 1250px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#u370-bw .line {
+	width: 100%;
+	position: relative;
+	height: 2px;
+	background: #000;
+}
+
+#u370-bw .unit,
+#u286-bw .unit {
+	display: inline-block;
+	vertical-align: middle;
+	text-align: center;
+	margin: 0 auto 20px;
+}
+
+#u370-bw .unit .img,
+#u286-bw .unit .img {
+	margin: 20px auto;
+}
+
+#u370-bw .unit .img > img,
+#u286-bw .unit .img > img {
+	max-height: 350px;
+	max-width: 350px;
+}
+
+#u370-bw .plus,
+#u286-bw .plus {
+	margin: 0 0 0 20px;
+}
+
+#u370-bw .unit.plus .img img,
+#u286-bw .unit.plus .img img {
+	max-height: 100px;
+	max-width: 100px;
+}
+
+#u370-bw .unit .text,
+#u286-bw .unit .text {
+	font-size: 22px;
+	line-height: 26px;
+	font-weight: bold;
+	color: #fff;
+}
+
+#u370-bw .right,
+#u286-bw .right {
+	width: 400px;
+}
+
+#u370-bw .unit.right .img,
+#u286-bw .unit.right .img {
+	margin: 20px auto 10px;
+}
+
+#u370-bw .right .parameters,
+#u286-bw .right .parameters {
+	color: #fff;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 18px;
+	text-align: left;
+	padding: 0 0 0 15px;
+}
+
+#u370-bw .right .parameters img,
+#u370-bw .right .parameters .descr,
+#u286-bw .right .parameters img,
+#u286-bw .right .parameters .descr {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+#u370-bw .right .parameters img,
+#u286-bw .right .parameters img {
+	max-width: 80px;
+	max-height: 80px;
+}
+
+#u370-bw .right .parameters .descr,
+#u286-bw .right .parameters .descr {
+	max-width: 300px;
+}
+
+#u370-bw .right .parameters.three {
+	margin: 75px auto;
+}
+
+#u370-bw .right .parameters.three .descr {
+	font-size: 26px;
+	line-height: 28px;
+	max-width: 280px;
+	padding: 0 0 0 15px;
+	color: #fff;
+}
+
+#u370-bw .right .parameters.three .descr span.only {
+	color: #000;
+	font-size: 32px;
+}
+
+#u370-bw .right .parameters.three .descr span {
+	font-size: 32px;
+	color: #FCBD39;
+}
+
+#u370-bw .right .timer-line,
+#u286-bw .right .timer-line {
+    margin: 0 auto 10px;
+}
+
+#u370-bw .right .price p,
+#u286-bw .right .price p {
+	font-size: 24px;
+	line-height: 30px;
+	font-weight: bold;
+	color: #fff;
+}
+
+#u370-bw p span.old,
+#u286-bw p span.old {
+	color: #000;
+	text-decoration: line-through;
+}
+
+#u370-bw p span.new,
+#u286-bw p span.new {
+	font-size: 32px;
+	color: #FCBD39;
+}
+
+#u370-bw .right .button #u112,
+#u286-bw .right .button #u112 {
+    margin: 10px auto;
+}
+
+/*3 блок*/
+#u372-bw {
+    margin-top: 3000px;
+}
+
+#u372 {
+    z-index: 469;
+    min-height: 598px;
+    background-color: #313131;
+    padding: 20px 0;
+}
+
+/*3 круги*/
+#u348-bw {
+    margin-top: 50px;
+}
+
+#u348 {
+	padding: 30px 0;
+}
+
+/*Кнопка*/
+.button #u112 {
+	max-width: 400px;
+	margin: 20px auto;
+	display: block;
+	float: none;
+}
+
+/*Гифка*/
+#u268-bw {
+    margin-top: 60px;
+}
+
+#u268 {
+    min-height: 550px;
+}
+
+/*Секрет*/
+#u269-bw {
+    margin: 90px auto 0;
+}
+
+#secret {
+	top: 400px;
+}
+
+#preimushestva {
+    margin-top: 0px;
+    top: 420px;
+}
+
+/*Что можно очистить*/
+#u288-bw {
+	min-height: 700px;
+	margin: 1px;
+}
+
+#pu314 {
+    margin: 50px auto 0;
+}
+
+#pu310-4 {
+	margin: 5px auto 10px;
+}
+
+#u207_align_to_page {
+    padding-bottom: 20px;
+}
+
+#u207 {
+    min-height: 750px;
+}
+
+#u207 .button #u112 {
+    margin: 10px auto;
+}
+
+/*Специальное предложение*/
+#u315-bw {
+    min-height: 1100px;
+}
+
+#u314 {
+	height: 1100px;
+}
+
+#u315 #u112 {
+	max-width: 40%;
+	margin: 0 30%;
+}
+
+/*Отзывы*/
+#u174 {
+	height: 212px;
+}
+
+/*Как купить*/
+#u228-6 {
+	display: none;
+}
+
+#u207 {
+	min-height: 780px;
+}
+
+#u207 #u112 {
+	text-align: center;
+}
+
+#u207 #u116-9 #u116,
+#u207 #u116-4 {
+	color: #fff;
+}
+
+/*Футер*/
+#u1522-bw {
+	margin-top: 210px;
+	text-align: center;
+	min-height: auto;
+	font-size: 16px;
+	line-height: 20px;
+}
+
+#u1522 {
+    min-height: 110px;
+    z-index: 453;
+}
+
+#u1522 a {
+	color: #000;
+}
+
+#u1522 a:hover {
+	text-decoration: none;
+}
+
+/*Форма*/
+.popup {
+	z-index: 700;
+}
+
+.popup > p {
+	font-size: 24px; 
+	margin-bottom: 20px;
+}
+
+.popup form p {
+	font-size: 24px;
+	line-height: 24px;
+	text-transform: uppercase;
+	margin: 0 auto;
+	color: #F2000D;
+}
+
+.add_product_param {
+	margin: 0 auto 10px;
+}
+
+.popup .pcs {
+	display: inline-block;
+	vertical-align: middle;
+	border: 1px solid #fff;
+	border-radius: 3px;
+	margin: 0 5px 10px;
+	padding: 5px 10px;
+	max-width: 335px;
+}
+
+.popup #two,
+.popup #three {
+	width: 100%;
+} 
+
+.popup .pcs input,
+.popup .pcs label {
+	display: inline-block;
+	vertical-align: middle;
+	min-height: 20px;
+}
+
+.popup input.text {
+	width: 80%;
+	height: 30px;
+	margin: 5px;
+	padding: 10px;
+	font-size: 18px;
+}
+
+.submit {
+	margin: 20px auto 0;
+}
+
+.overlay {
+	width: 100%;
+	min-width: 100%;
+	height: 100%;
+	min-height: 100%;
+    z-index: 650;
+}
+
+@media screen and (max-width: 1170px) {
+	body {
+		min-width: auto;
+		width: 100%;
+	}
+
+	#page {
+		width: 100%;
+	    margin: 0 auto;
+	}
+
+	#u392 {
+	    min-height: 95px;
+	}
+
+	#u394 {
+	    margin-top: 30px;
+	}
+
+	#ppu437 {
+	    width: 150px;
+	    top: -12px;
+		left: 4%;
+		position: relative;
+	}
+
+	#menuu398 {
+	    left: 20%;
+	}
+
+	#u435 {
+		display: none;
+	}
+
+	#u434-8 {
+		display: block;
+		margin: 0 0 0 25%;
+	    width: 60%;
+	    left: 0;
+	    float: none;
+	    top: 80px;
+	    min-height: auto;
+	}
+
+	#u434-3,
+	#u434-6 {
+		display: inline-block;
+		margin: 0 auto;
+	}
+
+	#pu1472-4 {
+		margin: 0 auto;
+		width: 100%;
+	}
+
+	#u94_align_to_page {
+	    padding-top: 28px;
+	}
+
+	#u1472-4 {
+	    width: 100%;
+	    font-size: 20px;
+	}
+
+	#u1473-4 {
+		margin: 10px auto;
+	    width: 100%;
+	}
+
+	#pu128,
+	#u128 {
+	    width: 600px;
+	}
+
+	#u117 {
+	    position: relative;
+	    margin-right: 0;
+	    left: 70px;
+	    top: -430px;
+	    float: right;
+	    
+	}
+
+	#u117 img {
+		width: 440px;
+		height: auto;
+		margin: 0 auto;
+	}
+
+	#u116-3 #u116, 
+	#u116-3 #u116-2 {
+	    font-size: 18px;
+	}
+
+	#pu116-8 {
+		margin-top: -20px;
+	}
+
+	#pu101 {
+	    margin-top: 25px;
+	}
+
+	#u99 {
+		height: auto;
+	}
+
+	#ppu1472-4 {
+		height: 600px;
+	}
+
+	#u95, 
+	#u101, 
+	#u106 {
+	    margin-top: 20px;
+	}
+
+	#pu101 #u114-4 {
+	    font-size: 17px;
+	}
+
+	#u115-4 {
+	    font-size: 14px;
+	    line-height: 18px;
+	}
+
+	/*Блок с видео*/
+	#u344-bw {
+	    margin-top: 1050px;
+	}
+
+	#u345-4 {
+	    font-size: 20px;
+	    width: 90%;
+	    left: 5%;
+	}
+
+	#u346-4 {
+	    font-size: 22px;
+	    width: 65%;
+	    left: 17.5%;
+	}
+
+	#u369 {
+	    width: 80%;
+	    left: 10%;
+	    margin: 10px auto;
+	}
+
+	#u369 iframe {
+		width: 100%;
+		max-width: 840px;
+	}
+
+	#u353-4 {
+	    width: 100%;
+	    left: 0;
+	}
+
+	#u348 {
+		padding: 30px 0 0;
+	}
+
+	#u348-bw {
+	    margin-top: 100px;
+	}
+
+	/*Новий блок з акцією*/
+	#u370-bw, 
+	#u286-bw {
+	    padding: 0;
+	}
+
+	#u370-bw {
+	    min-height: 960px;
+	}
+	
+	#u286-bw {
+		padding: 40px 0;
+		min-height: 480px;
+	}
+
+	#u370-bw .title, 
+	#u286-bw .title {
+	    font-size: 22px;
+	    line-height: 28px;
+	}
+
+	#u370-bw .unit, 
+	#u286-bw .unit {
+	    max-width: 300px;
+	}
+
+	#u370-bw .unit .img > img, 
+	#u286-bw .unit .img > img {
+	    max-height: 280px;
+	    max-width: 280px;
+	}
+
+	#u370-bw .unit .text, 
+	#u286-bw .unit .text {
+	    font-size: 20px;
+	    line-height: 24px;
+	}
+
+	#u370-bw p span.new, 
+	#u286-bw p span.new {
+	    font-size: 26px;
+	}
+
+	#u370-bw .unit.plus .img img, 
+	#u286-bw .unit.plus .img img {
+	    max-height: 70px;
+	    max-width: 70px;
+	}
+
+	#u370-bw .right .parameters img, 
+	#u286-bw .right .parameters img {
+	    max-width: 50px;
+	    max-height: 50px;
+	}
+
+	#u370-bw .right .parameters .descr, 
+	#u286-bw .right .parameters .descr {
+	    max-width: 230px;
+	    font-size: 13px;
+	}
+
+	#u370-bw .right .parameters > div {
+		margin: 0 0 15px 0;
+	}
+
+	#u370-bw .right .parameters.three {
+	    margin: 55px auto;
+	}
+
+	#u370-bw .right .parameters.three .descr {
+	    font-size: 20px;
+	    line-height: 24px;
+	    max-width: 210px;
+	}
+
+	#u370-bw .right .parameters.three .descr span {
+	    font-size: 26px;
+	}
+
+	#u370-bw #u114-4 {
+	    font-size: 18px;
+	}
+
+	/*Третій блок*/
+	#u372-bw {
+	    margin-top: 2850px;
+	}
+
+	#u104-4 {
+	    width: 55px;
+	}
+
+	#u380 {
+	    width: 370px;
+	    left: 5%;
+	}
+
+	#pu373-4 {
+	    width: 450px;
+	    margin-left: 43%;
+	}
+
+	#pu373-4 > div {
+		margin-top: 10px;
+	}
+
+	#pu382-4 {
+	    width: 50px;
+	    margin-left: 90%;
+	}
+
+	/*Ваш пидорас линяет*/
+	#u390-8 {
+	    font-size: 16px;
+	}
+
+	/*В чем секрет*/
+	#u268-bw {
+	    margin-top: 30px;
+	}
+
+	#u268 {
+	    min-height: auto;
+	}
+
+	#u1386 {
+	    margin-top: 80px;
+	}
+
+	#u286 {
+		height: 515px;
+	}
+
+	#u282,
+	#u277 {
+		height: 500px;
+	}
+
+	#u273-4,
+	#u284-4,
+	#u285-4 {
+		height: 45px;
+	}
+
+	#u1418 {
+	    margin-top: 66px;
+	}
+
+	/*Гифка, В чем секрет*/
+	#u268-bw .button #u112 {
+		margin: 20px auto 40px;
+	}
+
+	/*3 блоки*/
+	#u269-bw {
+	    margin: 100px auto 0;
+	}
+
+	#u276-15 {
+	    margin-top: 170px;
+	}
+
+	#u287-6 {
+	    font-size: 18px;
+	}
+
+	#pu270 {
+	    margin-top: 10px;
+	}
+
+	/*Что можно очистить*/
+	#pu288 {
+	    max-height: 650px;
+	}
+
+	#u172 {
+		height: 235px;
+	}
+
+	#u174 {
+		height: 256px;
+	}
+
+	#u204 {
+		height: 252px;
+	}
+
+	#pu195,
+	#ppu200 {
+	    margin-top: 15px;
+	}
+
+	/*Как это работает*/
+	#pu314 {
+	    margin: 600px auto 0;
+	}
+
+	/*Специальное предложение*/
+	#pu1479-6 {
+	    margin-top: 15px;
+	}
+
+	#u314,
+	#u314:hover {
+	    height: 1070px;
+	}
+
+	#u315-bw {
+	    min-height: 1070px;
+	}
+
+	#u1501,
+	#u326,
+	#u1425,
+	#u1501 img,
+	#u326 img,
+	#u1425 img {
+		width: auto;
+		max-height: 250px;
+	}
+
+	#u315 #u114-4 {
+	    font-size: 18px;
+	}
+
+	/*Отзывы*/
+	#u159-4 {
+	    width: 100%;
+	    margin-left: 0;
+	}
+
+	#u171-4 {
+	    width: 100%;
+	}
+
+	#u172,
+	#u156,
+	#u204,
+	#u187 {
+	    height: auto;
+	    min-height: 240px;
+	}
+
+	#u195,
+	#u173 {
+		height: auto;
+		min-height: 250px;
+	}
+
+	/*Как оформить заказ*/
+	#u207-bw {
+	    margin-top: 80px;
+	}
+
+	#u207 {
+	    min-height: 850px;
+	}
+
+	#u264 {
+	    width: 100%;
+	}
+
+	#u261 {
+	    left: 10.5%;
+	}
+
+	#u208 {
+	    left: 27.5%;
+	}
+
+	#u212 {
+	    left: 44.5%;
+	}
+
+	#u214 {
+	    left: 61.5%;
+	}
+
+	#u210 {
+	    left: 78.5%;
+	}
+
+	#u264 {
+		width: 50px;
+		left: 25%;
+	}
+
+	#u265 {
+		width: 5%;
+		left: 13.3%;
+	}
+	
+	/*Футер*/
+	#u1522-bw {
+	    margin-top: 230px;
+	}
+}
+
+@media screen and (max-width: 992px) {
+	#ppu437 {
+	    width: 200px;
+	    left: 0;
+	    top: 0;
+	    position: relative;
+	    margin: 0 auto 15px;
+	    float: none;
+	    clear: both;
+	    display: block;
+	}
+
+	#pu437 {
+		width: 80%;
+		margin: 0 9%;
+	}
+
+	#u392 {
+	    min-height: 120px;
+	}
+
+	#u394 {
+	    left: 0;
+	    max-width: 180px;
+		margin: 0 auto;
+	}
+
+	#u439-4 {
+	    width: auto;
+	}
+
+	#menuu398 {
+		width: 100%;
+		max-width: 700px;
+	    left: -20px;
+	    top: 0;
+	    margin: 0 auto -35px;
+		display: block;
+		float: none;
+	}
+	
+	#u413,
+	#u414 {
+	    width: 160px;
+	}
+
+	#u417-4,
+	#u417-4:hover {
+	    width: 150px;
+	}
+
+	#u427 {
+	    left: 316px;
+	}
+
+	#u406 {
+	    left: 459px;
+	}
+
+	#u420 {
+	    left: 553px;
+	}
+
+	#u434-8 {
+	    top: 45px;
+	}
+
+	#u434-8 {
+	    margin: 0 0 0 20%;
+	}
+
+	#ppu1472-4 {
+	    margin: 70px auto 40px;
+    	height: 440px;
+	}
+
+	#u94-bw {
+	    margin-top: 50px;
+	}
+
+	#pu1472-4 {
+		margin: 0;
+	    width: 100%;
+	    font-size: 16px;
+	}
+
+	#u1472-4 {
+	    font-size: 15.5px;
+	}
+
+	#u1473-4 {
+	    font-size: 20px;
+	}
+
+	#pu128, #u128 {
+	    width: 440px;
+	    margin: 5px;
+	}
+
+	#u117 {
+	    width: 320px;
+	    left: 20px;
+		top: -335px;
+	}
+
+	#u117 img {
+	    width: 320px;
+	}
+
+	#pu101 {
+	    margin-top: 0;
+	    bottom: 20px;
+	}
+
+	#pu116-8 {
+	    width: auto;
+	    margin-left: 62%;
+	}
+
+	#u116-3 #u116, 
+	#u116-3 #u116-2 {
+	    font-size: 16px;
+	}
+
+	#u116-6 {
+	    padding: 10px 0;
+	}
+
+	#u116-4 {
+	    font-size: 22px;
+	}
+
+	#u116-5 {
+	    font-size: 32px;
+	}
+
+	#u112 {
+	    margin: 0;
+	    width: 100%;
+	    height: 60px;
+	}
+
+	#pu101 #u114-4 {
+	    font-size: 15px;
+	    width: 100%;
+	    left: 0;
+	}
+
+	#u105,
+	#u99,
+	#u109 {
+	    height: auto;
+	    min-height: 140px;
+	}
+
+	#u100-4, 
+	#u102-4, 
+	#u110-4 {
+	    font-size: 14px;
+	    line-height: 18px;
+	    width: 100%;
+		left: 0%;
+	}
+
+	#u94 {
+	    min-height: 800px;
+	}
+
+	#u94_align_to_page {
+	    padding-bottom: 0;
+	}
+
+	/*Видео*/
+	#u344-bw {
+	    margin-top: 890px;
+	}
+
+	#u344_align_to_page {
+	    padding-bottom: 20px;
+	}
+
+	#u345-4 {
+	    font-size: 20px;
+	    width: 95%;
+	    left: 2.5%;
+	}
+
+	#u369 {
+	    width: 95%;
+	    left: 2.5%;
+	    text-align: center;
+	}
+
+	#u369 iframe {
+	    width: 100%;
+	    max-width: 720px;
+	    max-height: 405px;
+	}
+
+	#u346-4 {
+	    width: 90%;
+	    left: 5%;
+	}
+
+	#u348-bw {
+		height: 370px;
+		min-height: auto;
+	}
+
+	#u348 {
+	    padding: 30px 0;
+	    min-height: auto;
+	}
+
+	#u344_align_to_page {
+	    padding-top: 25px;
+	}
+
+	/*Новий блок з акцією*/
+	#u370-bw {
+	    margin-top: 1560px;
+	    min-height: 720px;
+	}
+
+	#u286-bw {
+	    padding: 20px 0;
+	    min-height: 380px;
+	}
+
+	#u370-bw .title, 
+	#u286-bw .title {
+	    font-size: 20px;
+	}
+
+	#u370-bw .unit, 
+	#u286-bw .unit {
+	    max-width: 180px;
+	}
+
+	#u370-bw .glove.unit, 
+	#u286-bw .glove.unit {
+	    margin: 0 10px 20px 0;
+	}	
+
+	#u370-bw .right.unit, 
+	#u286-bw .right.unit {
+	    max-width: 270px;
+	    margin: 40px auto 0;
+	}
+
+	#u370-bw .right.unit .price, 
+	#u286-bw .right.unit .price {
+		margin: 0 auto 20px;
+	}
+
+	#u370-bw .unit .img, 
+	#u286-bw .unit .img {
+	    margin: 10px auto;
+	}
+
+	#u370-bw .unit .img > img, 
+	#u286-bw .unit .img > img {
+	    max-height: 200px;
+	    max-width: 200px;
+	}
+
+	#u370-bw .unit.plus .img img, 
+	#u286-bw .unit.plus .img img {
+	    max-height: 30px;
+	    max-width: 30px;
+	}
+
+	#u370-bw .unit.right .img, 
+	#u286-bw .unit.right .img {
+	    display: none;
+	}
+
+	#u370-bw .unit.right .parameters.three.img {
+		display: block;
+		margin: 0;
+	}
+
+	#u370-bw .right .parameters img, 
+	#u286-bw .right .parameters img {
+	    max-width: 40px;
+	    max-height: 40px;
+	}
+
+	#u370-bw .main.three {
+		margin: 20px auto;
+	}
+
+	#u370-bw .main.three .right {
+		margin: 0;
+	}
+
+	#u370-bw .right .parameters.three .descr {
+	    font-size: 17px;
+	    line-height: 20px;
+	    max-width: 180px;
+	}
+
+	#u370-bw .unit .text, 
+	#u286-bw .unit .text {
+	    font-size: 18px;
+	    line-height: 22px;
+	}
+
+	#u370-bw p span.new, 
+	#u286-bw p span.new {
+	    font-size: 20px;
+	}
+
+	#u370-bw .right .price p, 
+	#u286-bw .right .price p {
+	    font-size: 24px;
+		line-height: 30px;
+	}
+
+	#u370-bw .right .price p span.new, 
+	#u286-bw .right .price p span.new {
+	    font-size: 30px;
+	}
+
+	/*Ваш пидорас линяет*/
+	#u372-bw {
+	    margin-top: 2320px;
+	}
+
+	#u372 {
+		padding: 0;
+	}
+
+	#u383-4 {
+	    font-size: 20px;
+	    width: 100%;
+	    left: 0;
+	}
+
+	#pu380 {
+	    margin-top: 0;
+	}
+
+	#u380 {
+		width: 28%;
+		left: 2.5%;
+	    margin-top: 80px;
+	}
+
+	#pu373-4 {
+	    width: 65%;
+	    margin-left: 32%;
+	}
+
+	#pu382-4 {
+		display: none;
+	}
+
+	#u390-8 {
+	    width: 95%;
+	    left: 2.5%;
+	}
+
+	#u390-8 {
+	    font-size: 15px;
+	}
+
+	/*Круги*/
+	#u348-bw {
+	    margin-top: 20px;
+	}
+
+	#u348 {
+	    padding: 10px 0;
+	}
+
+	#u103,
+	#u96,
+	#u111 {
+	    width: 60px;
+	    left: 32.4%;
+	}
+
+	#u97,
+	#u107 {
+	    width: 45px;
+	}
+
+	/*Хуйня з гифкою*/
+	#u268-bw {
+	    margin-top: -10px;
+	}
+
+	#u268 {
+	    padding: 40px 0;
+	}
+
+	#u1386 {
+		width: 70%;
+		max-width: 480px;
+		max-width: ;
+	    margin: 0 auto;
+	    text-align: center;
+	    display: block;
+	    float: none;
+	    clear: both;
+	    left: 0;
+	}
+
+	#u343-14 {
+		min-height: auto;
+	    margin-top: 20px;
+	    width: 100%;
+	    left: 0;
+	}
+
+	#u343-14 p {
+		margin: 10px 0;
+	}
+
+	#u343-5,
+	#u343-8 {
+		display: none;
+	}
+
+	#preimushestva {
+	    margin-top: 0;
+	    left: 0;
+	}
+
+	/*3 блоки*/
+	#u269-bw {
+	    min-height: 655px;
+	    margin-top: 340px;
+	}
+
+	#u270 {
+	    width: 95.4%;
+	    left: 2%;
+	}
+
+	#u272-3, #u272-6, #u272-9, #u283-3, #u283-6, #u283-9, #u283-12, #u276-4, #u276-7, #u276-10, #u276-13, #u196-2 {
+	    font-size: 15px;
+		line-height: 18px;
+	}
+	
+	#u278_img,
+	#u274_img {
+		width: 200px;
+	}
+
+	#u276-15 {
+	    margin-top: 150px;
+	}
+
+	#u1418 {
+	    margin-top: 65px;
+	}
+
+	#u1418 img {
+		width: 200px;
+		margin: 0 auto;
+		display: block;
+	}
+
+	/*Как можно очистить*/
+	#pu288 {
+	    margin: 20px auto 0;
+	    max-height: 550px;
+	}
+
+	#u288 {
+		min-height: auto;
+	}
+
+	#best-present {
+	    margin-top: 0;
+	    left: 0;
+	}
+
+	/*Специальное предложение*/
+	#u314-bw {
+	    height: 920px;
+	    margin-top: -20px;
+	}
+
+	#pu314,
+	#u314:hover {
+	    margin: 470px auto 0;
+	    height: 920px;
+	}
+
+	#u314 {
+	    height: 920px;
+	}
+
+	#u315-bw {
+	    min-height: 920px;
+	}
+
+	#u316-4 {
+		width: 100%;
+	    left: 0;
+	}
+
+	#u1501, #u326, #u1425, #u1501 img, #u326 img, #u1425 img {
+	    width: auto;
+	    max-height: 190px;
+	}
+
+	#u315 {
+	    min-height: auto;
+	    padding: 10px 0 0;
+	}
+	
+	#u1479-2,
+	#u1479-4 {
+		display: block;
+	    width: 100px;
+	    position: relative;
+	    left: -30px;
+	}
+
+	#u336-8 {
+	    width: 70%;
+	    margin-left: 15%;
+	}
+
+	#u315 #u112 {
+	    max-width: 60%;
+	    margin: 0 20%;
+	}
+
+	#u1478-4 {
+	    margin-top: 10px;
+	}
+
+	/*Отзывы*/
+	#u153 {
+	    width: 95%;
+	    left: 2.5%;
+	}
+
+	#u172, #u156, #u204, #u187 {
+	    height: auto;
+	    min-height: 260px;
+	}
+
+	#u195,
+	#u174 {
+		height: auto;
+		min-height: 270px;
+	}
+
+	#u167-2, #u141-2, #u196-2, #u176-2, #u158-2, #u186-2, #u206-2 {
+		font-size: 13px;
+		text-align: left;
+	}
+
+	#u171-2, #u199-2, #u192-2, #u175-2, #u205-2, #u190-2 {
+	    width: 200px;
+	}
+
+	#u187_position_content {
+		height: 243px;
+	}
+
+	/*Оформление заказа*/
+	#u207-bw {
+	    margin-top: 140px;
+	}
+
+	#u207 {
+	    min-height: 750px;
+	}
+
+	#u265 {
+	    width: 50px;
+	    left: 13.5%;
+	}
+
+	#u217-4 {
+	    width: 100%;
+	    left: 0;
+	}
+
+	#u218 {
+		width: 10%;
+	    left: 70%;
+	}
+
+	#u219 {
+	    width: 10%;
+	    left: 20%;
+	}
+
+	#u230-4,
+	#u229-4,
+	#u231-4 {
+	    margin-top: 40px;
+	}
+
+	#ppu226-4 {
+	    margin-top: 20px;
+	}
+
+	/*Футер*/
+	#u1522-bw {
+	    margin-top: 180px;
+	}
+
+	#u1522 {
+	    margin: 0 auto;
+	}
+
+	#u1527 {
+		width: 23.36%;
+		left: 9.6%;
+	}
+
+	#u1531 {
+		width: 17.92%;
+		left: 44.09%;
+	}
+
+	#u1525-13,
+	#u1535 {
+		width: 20%;
+		left: 74.16%;
+	}
+
+	#u1529,
+	#u1532,
+	#u1536 {
+		width: auto;
+		margin: 0 -18% 0 0;
+	}
+
+	#u1527 img,
+	#u1531 img,
+	#u1535 img {
+		width: 40px;
+		height: auto;
+	}
+
+	#u1551-4,
+	#u1526-4 {
+	    width: 100%;
+	    left: 0;
+	}
+
+	#u1526-4 {
+	    margin: 0;
+	}
+}
+
+@media screen and (max-width: 750px) {
+	#u392-bw {
+	    display: none;
+	}
+
+	#u94-bw {
+	    margin-top: 0;
+	}
+
+	#u434-8 {
+	    top: 10px;
+	}
+
+	#u434-3, #u434-6 {
+	    display: block;
+	    margin: 0 auto;
+	}
+
+	#u392 {
+	    min-height: 155px;
+	}
+
+	#u94_align_to_page {
+	    padding-top: 0;
+	}
+
+	#ppu1472-4 {
+	    margin: 0 auto 40px;
+	    height: 440px;
+	}
+
+	#u1472-2 {
+	    padding: 10px 3px;
+	    font-size: 18px;
+	    line-height: 26px;
+	}
+
+	#u1473-2 {
+	    font-size: 18px;
+	}
+
+	#pu128, #u128 {
+		width: 95%;
+		max-width: 360px;
+		margin: 0 auto;
+		left: 0;
+		display: block;
+		float: none;
+	}
+
+	#u117 {
+	    width: 100%;
+	    bottom: 0;
+	    left: 0;
+		top: 0;
+	}
+
+	#u117 img {
+	    width: 360px;
+	}
+
+	#u372-bw {
+	    margin-top: 1600px;
+	}
+
+	#pu101 {
+	    margin-top: 360px;
+	}
+
+	#u101,
+	#u95,
+	#u106 {
+	    width: 95%;
+	    left: 3%;
+	}
+
+	#u105, #u99, #u109 {
+	    height: auto;
+	    min-height: 70px;
+	}
+
+	#u95 {
+	    margin: 160px auto 0;
+	}
+
+	#u112 {
+	    width: 95%;
+	    left: 2.5%;
+	}
+
+	#pu101 #u114-4 {
+	    font-size: 18px;
+	}
+
+	#u106 {
+		margin: 20px auto 0;
+	}	
+
+	#pu116-8 {
+	    width: 100%;
+		margin: 0;
+		padding: 0;
+	    clear: both;
+	}
+
+	#u103, #u96, #u111 {
+	    left: 40%;
+	}
+
+	#u104-4 {
+	    left: 41%;
+	}
+
+	#u97, #u107 {
+	    left: 42%;
+	}
+
+	#pu116-8 {
+	    margin: 20px auto;
+	}
+
+	#u347 {
+		display: none;
+	}
+
+	/*Видео*/
+	#u344-bw {
+	    margin-top: 1570px;
+	}
+
+	#u344_align_to_page {
+		max-width: none;
+	    padding-top: 20px;
+	    padding-bottom: 20px;
+	}
+
+	#u345-4,
+	#u346-4 {
+	    width: 100%;
+	    left: 0;
+	    font-size: 16px;
+	}
+
+	#u346-4 {
+		margin: 5px auto 15px;
+	}
+
+	#u344-bw,
+	#u344,
+	#u369 {
+		min-height: auto;
+	}
+
+	#u369 {
+	    margin: 0 auto 15px;
+	}
+
+	#u369 iframe {
+		display: block;
+		width: 100%;
+		height: 70%;
+		max-width: 350px;
+		min-height: 210px;
+		margin: 0 auto;
+	}
+
+	.button #u112 {
+	    margin: 0 auto;
+	    float: left;
+	}
+
+	/*Новий блок з акцією*/
+	#u370-bw {
+	    margin-top: 2050px;
+	    min-height: 1200px;
+	}
+
+	#u286-bw {
+		min-height: 660px;
+	}
+
+	#u370-bw .title, 
+	#u286-bw .title {
+	    font-size: 18px;
+	}
+
+	#u370-bw .main, 
+	#u286-bw .main {
+	    text-align: center;
+	}
+
+	#u370-bw .unit, 
+	#u286-bw .unit {
+	    max-width: 150px;
+	}
+
+	#u370-bw .unit .img > img, 
+	#u286-bw .unit .img > img {
+	    max-height: 140px;
+	    max-width: 140px;
+	}
+
+	#u370-bw .unit.plus .img img, 
+	#u286-bw .unit.plus .img img {
+	    max-height: 30px;
+	    max-width: 30px;
+	}
+
+	#u370-bw .unit .text, 
+	#u286-bw .unit .text {
+	    font-size: 16px;
+	    line-height: 18px;
+	}
+
+	#u370-bw .left.unit p span.new,
+	#u370-bw .glove.unit p span.new, 
+	#u286-bw .left.unit p span.new,
+	#u286-bw .glove.unit p span.new {
+		font-size: 22px;
+		line-height: 26px;
+		display: block;
+	}
+
+	#u370-bw .main.three .right {
+	    margin: 0 auto;
+	}
+
+	#u370-bw .right.unit, #u286-bw .right.unit {
+		display: block;
+	    max-width: 300px;
+	    min-height: 230px;
+	    margin: 0 auto;
+	}
+
+	#u370-bw .right .parameters > div {
+	    text-align: center;
+	}
+
+	#u370-bw .right.unit .price, 
+	#u286-bw .right.unit .price {
+	    margin: 0;
+	}
+
+	#u370-bw .right .parameters.three .descr span.only {
+	    font-size: 22px;
+	}
+
+	/*Ваш пидорас линяет?*/
+	#u372-bw {
+	    margin-top: 3350px;
+	}
+
+	#u383-4 {
+	    width: 100%;
+	    left: 0;
+	    font-size: 20px;
+	    margin: 0 auto 15px;
+	}
+
+	#pu373-4 {
+	    width: 480px;
+	    margin-left: 38%;
+	    clear: both;
+	}
+
+	#u380 {
+		width: 60%;
+		max-width: 260px;
+		left: 20%;
+		margin-top: 0;
+	}
+
+	#pu373-4 {
+		width: 95%;
+	    margin: 0 2.5%;
+	}
+
+	#u390-8 {
+	    width: 100%;
+	    left: 0;
+	    font-size: 18px;
+	}
+
+	/*Просто как раз два три*/
+	#u348-bw {
+	    display: none;
+	}
+
+	/*Гифка*/
+	#u268-bw {
+	    margin-top: 480px;
+	}
+
+	#u268 {
+	    min-height: 550px;
+	    padding: 20px 0 0;
+	}
+
+	#u1386 {
+	    width: 95%;
+	    max-width: 350px;
+	}
+
+	#preimushestva {
+		display: none;
+	}
+
+	#u343-2 {
+		margin: 0 auto;
+	}
+
+	#u343-10,
+	#u343-12 {
+		display: none;
+	}
+
+	/*Что можно очистить*/
+	#u269-bw {
+	    margin-top: 200px;
+	}
+
+	#u269_align_to_page {
+	    padding-bottom: 20px;
+	}
+
+	#u287-2 {
+	    font-size: 16px;
+	}
+
+	#pu270 {
+	    margin-top: 15px;
+	}
+
+	#u286 {
+	    width: 100%;
+	    left: 0;
+	    clear: both;
+	}
+	
+	#u282, #u277 {
+	    display: none;
+	}
+
+	#pu273-4 {
+	    width: 95%;
+	    margin-left: 3%;
+	}
+
+	#u273-4 {
+	    height: auto;
+	    width: 100%;
+	    left: 0;
+	    margin: 0 auto;
+	}
+
+	#u1418 {
+		margin: 50px auto;
+		width: 90%;
+		left: 5%;
+	}
+
+	#u276-15 {
+	    margin-top: 220px;
+	}
+
+	#u286 {
+	    height: 500px;
+	}
+
+	#u288-bw .button {
+		margin: 860px auto;
+	}
+
+	/*3 блоки*/
+	#u1418 img {
+	    width: 100%;
+	    max-width: 300px;
+	}
+
+	/*8 блоків*/
+	#pu288 {
+	    margin: 30px auto 0;
+	}
+
+	#u289-4 {
+		width: 95%;
+	    left: 2.5%;
+	    font-size: 18px;
+	}
+
+	#pu298,
+	#pu310-4 {
+	    top: 180px;
+	}
+
+	#u290, #u292, #u294, #u296, #u298, #u300, #u302, #u304,
+	#u306-4, #u307-4, #u308-4, #u309-4, #u310-4, #u311-4, #u312-4, #u313-4 {
+		width: 45%;
+		font-size: 14px;
+	}
+
+	#u290,
+	#u298 {
+		left: 2.5%;
+	}
+
+	#u292,
+	#u302 {
+		left: 52.5%;
+	}
+
+	#u294,
+	#u304,
+	#u308-4,
+	#u312-4 {
+		left: 2.5%;
+	    top: 190px;
+	}
+
+	#u296,
+	#u300,
+	#u309-4,
+	#u311-4 {
+		left: 52.5%;
+	    top: 190px;
+	}
+
+	#u306-4, #u308-4, #u310-4, #u312-4 {
+		left: 2.5%;
+	}
+
+	#u307-4, #u309-4, #u311-4, #u313-4 {
+		left: 52.5%;
+	}
+
+	/*Посмотри ещё раз*/
+	#pu314 {
+	    margin: 1120px auto 0;
+	}
+
+	#u314,
+	#u314:hover {
+		height: 1420px;
+		margin: 20px 0 0;
+	}
+
+	#u316-4 {
+		width: 95%;
+		left: 2.5%;
+		font-size: 20px;
+	}
+
+	/*Специальное предложение*/
+	#pu1445 {
+	    margin-top: 10px;
+	}
+
+	#u314-bw {
+	    height: auto;
+	}
+
+	#u1501, #u326, #u1425, #u1501 img, #u326 img, #u1425 img {
+	    max-height: 120px;
+	}
+
+	#u1445,
+	#u1454,
+	#u1463 {
+		width: 93%;
+		max-width: 350px;
+		display: block;
+		float: none;
+		left: 0;
+	}
+
+	#u1445 {
+	    margin: 0 auto 10px;
+	}
+
+	#u1454 {
+	    margin: 0 auto 10px;
+	}
+
+	#u1463 {
+	    margin: 0 auto;
+	}
+
+	#u323,
+	#u323:hover {
+		width: 93%;
+		left: 2.5%;
+		min-height: 600px;
+	}
+
+	#u1501 {
+		width: 30%;
+	}
+
+	#u326 {
+		width: 42%;
+		left: 30%;
+	}
+
+	#u1425 {
+	    width: 22%;
+	    left: 75%;
+	}
+
+	#pu1479-6 {
+		display: none;
+	}
+
+	#u1511-5 p {
+		font-size: 20px;
+	}
+
+	#u1511-5 p span {
+		font-size: 18px;
+	}
+
+	#u315 #u112 {
+	    max-width: 95%;
+	    margin: 0;
+	}
+
+	#u336-8 {
+		width: 95%;
+		margin: 10px 2.5%;
+	}
+
+	#u337,
+	#u337:hover {
+		width: 95%;
+		margin: 0 2.5%;
+	}
+
+	#u1478-4 {
+		width: 95%;
+	    margin: 10px 2.5% 0;
+	}
+
+	/*Отзывы*/
+	#u152-bw {
+	    margin: 400px 0 0;
+	}
+
+	#pu151 {
+	    margin: 100px auto 0;
+	}
+
+	#u159-4 {
+		width: 95%;
+		margin: 0 2.5%;
+	}
+
+	#u164 {
+		width: 98.5%;
+		left: 0;
+	}
+
+	#u172 {
+		height: auto;
+		min-height: auto;
+	}
+
+	#u156 {
+		margin: 260px auto 0;
+		width: 98%;
+		left: 0;
+	}
+
+	#u195 {
+	    width: 98%;
+	    left: 0;
+	}
+
+	#u173 {
+	    width: 98.5%;
+	    left: 0;
+	    margin: 300px auto 0;
+	}
+
+	#u174 {
+	    height: 285px;
+	}
+
+	#u180 {
+		margin: 0;
+	    top: -280px;
+	    left: 5px;
+	    width: 35%;
+	}
+
+	#u171-2, #u199-2, #u192-2, #u175-2, #u205-2, #u190-2 {
+	    width: 180px;
+	}
+
+	#ppu200 {
+		display: none;
+	}
+	
+	/*Как оформить заказ*/
+	#u207-bw {
+	    margin-top: 440px;
+	    min-height: 550px;
+	}
+
+	#u207 {
+		min-height: 1080px;
+	}
+
+	#u207_align_to_page {
+	    padding-top: 15px;
+	    padding-bottom: 15px;
+	}
+
+	#u207 .button {
+		position: relative;
+		bottom: 120px;
+	}
+
+	#u218, #u219 {
+		display: none;
+	}
+
+	#u217-4 {
+		width: 100%;
+	    left: 0;
+	}
+
+	#pu208 {
+	    margin-top: 10px;
+	}
+
+	#u208,
+	#u208_img,
+	#u212,
+	#u212_img,
+	#u214,
+	#u214_img,
+	#u210,
+	#u210_img,
+	#u262,
+	#u262_img {
+		width: 70px;
+		height: auto;
+	}
+
+	#u264 {
+	    height: 40px;
+	    width: 40px;
+	    top: -10px;
+	    left: 45%;
+	}
+
+	#u265 {
+	    width: 40px;
+	    height: auto;
+	    left: 15%;
+		top: -15px;
+	}
+
+	#u208 {
+	    left: 40%;
+	}
+
+	#u212 {
+		left: 70%;
+	}
+
+	#u220-4,
+	#u221-7,
+	#u224-4 {
+		width: 28%;
+	}
+
+	#u220-4 {
+		left: 6%;
+	}
+
+	#u221-7 {
+		left: 35%;
+	}
+
+	#u224-4 {
+		left: 65%;
+	}
+
+	#u214,
+	#u210,
+	#u223-4,
+	#u222-4 {
+		top: 180px;
+	}
+
+	#u214 {
+		left: 20%;
+	}
+
+	#u210 {
+	    left: 60%;
+	}
+
+	#pu220-4 {
+	   	margin-top: 5px;
+	}
+
+	#u223-4 {
+		left: 14%;
+		width: 30%;
+	}
+
+	#u222-4 {
+		width: 30%;
+		left: 54%;
+	}
+
+	#ppu226-4 {
+	    margin-top: 200px;
+	}
+
+	#pu225-4,
+	#pu226-4,
+	#pu227-4 {
+		width: 95%;
+		margin: 0 2.5%;
+	}
+
+	#u225-4 {
+		width: 95%;
+	    margin: 20px 2.5%;
+	    left: 0;
+	}
+
+	#u225-4,
+	#u226-4,
+	#u227-4 {
+	    min-height: 115px;
+	}
+
+	#u227-4 {
+		width: 95%;
+	    margin: 0 2.5%;
+	    left: 0;
+	}
+
+	#u229-4 {
+		margin: 0 2.5%;
+		width: 95%;
+		top: -200px;
+		left: 0;
+	}
+
+	#u230-4 {
+		width: 95%;
+		margin: 0 2.5%;
+		left: 0;
+		top: -120px;
+	}
+
+	#u228-6 {
+		margin: -90px auto;
+		width: 95%;
+		left: 2.5%;
+	}
+
+	/*Футер*/
+	#u1522-bw {
+	    margin-top: 530px;
+	}
+
+	#u1522 {
+	    margin: 0 auto;
+	    min-height: 120px;
+	}
+
+	#u1527 {
+	    width: 75%;
+	    left: 12.5%;
+	    text-align: center;
+	    margin: 0 auto;
+	}
+
+	#u1531 {
+	    width: 75%;
+	    left: 12.5%;
+	    margin: 20px auto;
+	}
+
+	#u1535 {
+	    width: 75%;
+	    left: 12.5%;
+	    margin: 0 auto;
+	}
+
+	#u1527 > div,
+	#u1531 > div,
+	#u1535 > div {
+		display: inline-block;
+		vertical-align: middle;
+	}
+
+	#u1527 .rgba-background,
+	#u1531 .rgba-background,
+	#u1535 .rgba-background {
+		min-width: 55px;
+	}
+
+	#u1527 > div.clearfix,
+	#u1531 > div.clearfix,
+	#u1535 > div.clearfix {
+		width: 80%;
+		left: 20%;
+	}
+
+	/*Реквизиты*/
+	#pu1523-11 {
+	    margin-top: 20px;
+	}
+
+	#u1523-11,
+	#u1524-14,
+	#u1525-13 {
+		width: 95%;
+		left: 2.5%;
+		margin: 0 auto;
+		text-align: center;
+	}
+
+	#u1524-14,
+	#u1525-13 {
+	    min-height: 109px;
+	}
+
+	#u1551-4 {
+		margin: 0 auto;
+	}
+
+	/*Форма*/
+	.overlay:target + .popup {
+	    top: 15%;
+	}
+
+	.popup {
+		max-width: 300px;
+		min-width: auto;
+	}
+
+	.popup > p {
+	    font-size: 19px;
+	    margin-bottom: 10px;
+	}
+
+	.popup form {
+		width: 100%;
+	}
+
+	.popup form p {
+	    font-size: 20px;
+	}
+
+	.popup .pcs {
+	    margin: 0 5px 5px;
+	    padding: 5px 10px;
+	    width: 90%;
+	}
+
+	.popup #two, 
+	.popup #three {
+	    width: 90%;
+	}
+
+	.popup .add_product_param {
+	    margin: 0 auto;
+	}
+
+	.popup input.text {
+		width: 90%;
+		height: 20px;
+	}
+
+	.popup input.submit {
+	    margin: 10px auto 0;
+	    height: 40px;
+	    font-size: 20px;
+	}
+}
